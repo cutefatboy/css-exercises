@@ -1,0 +1,18 @@
+.odd {
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.fontsize {
+font-size: 24px;
+}
+
+.number4 {
+    font-size: 24px;
+    background-color: lightgreen;
+}
